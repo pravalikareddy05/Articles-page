@@ -1,0 +1,108 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg {
+    background-color: #225db0;
+}
+
+.top-section {
+    padding: 60px 40px 30px 40px;
+}
+
+.home-page-heading {
+    color: #ffffff;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 33px;
+}
+
+.home-page-description {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 17px;
+}
+
+.bottom-section {
+    margin: 10px;
+    padding-left: 30px;
+}
+
+.card-container-1 {
+    background-color: #ffffff;
+    margin: 10px;
+    margin-top: -15px;
+    height: 100px;
+    width: 150px;
+    border-radius: 10px;
+    padding-top: 20px;
+}
+
+.card-container-2 {
+    background-color: #ffffff;
+    margin: 10px;
+    height: 100px;
+    width: 150px;
+    border-radius: 10px;
+    padding-top: 20px;
+    margin-bottom: 200px;
+}
+
+.icons {
+    height: 40px;
+    width: 40px;
+}
+
+.article {
+    color: #1f2933;
+    font-family: Roboto;
+    font-size: 13px;
+}
+
+#carouselTechnology {
+    margin-top: -65px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.heading {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 28px;
+    margin-left: 24px;
+    margin-top: 25px;
+}
+
+.lists li {
+    color: #ffffff;
+    font-family: Roboto;
+    font-size: 15px;
+    margin: 15px;
+    margin-left: 35px;
+}
+
+.button {
+    background-color: #225db0;
+    color: #ffffff;
+    border-color: #ffffff;
+    border-width: 1px;
+    padding: 0px 10px;
+    margin: 20px;
+
+}
+
+#carouselScience {
+    margin-top: -65px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+#carouselHealthCare {
+    margin-top: -65px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+#carouselBusiness {
+    margin-top: -65px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
